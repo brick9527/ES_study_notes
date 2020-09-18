@@ -16,3 +16,5 @@
   - [09 基本概念：索引、文档和REST API](./geek_lessons/unit03/lesson09.md)
   - [10 基本概念：节点、集群、分片及副本](./geek_lessons/unit03/lesson10.md)
   - [11 文档的基本CRUD与批量操作](./geek_lessons/unit03/lesson11.md)
+  - [12 倒排索引](./geek_lessons/unit03/lesson12.md)
+  - [13 通过Analyzer进行分词](./geek_lessons/unit03/lesson13.md)
