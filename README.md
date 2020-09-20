@@ -24,3 +24,6 @@
   - [17 Query String&Simple Query String查询](./geek_lessons/unit03/lesson17.md)
   - [18 Dynamic Mapping和常见字段类型](./geek_lessons/unit03/lesson18.md)
   - [19 显示Mapping设置与常见参数介绍](./geek_lessons/unit03/lesson19.md)
+  - [20 多字段特性及Mapping中配置自定义Analyzer](./geek_lessons/unit03/lesson20.md)
+  - [21 Index Template和Dynamic Template](./geek_lessons/unit03/lesson21.md)
+  - [22 Elasticsearch聚合分析简介](./geek_lessons/unit03/lesson22.md)
