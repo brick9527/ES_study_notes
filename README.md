@@ -27,3 +27,11 @@
   - [20 多字段特性及Mapping中配置自定义Analyzer](./geek_lessons/unit03/lesson20.md)
   - [21 Index Template和Dynamic Template](./geek_lessons/unit03/lesson21.md)
   - [22 Elasticsearch聚合分析简介](./geek_lessons/unit03/lesson22.md)
+  - [23 第一部分总结](./geek_lessons/unit03/lesson23.md)
+- [第四章 深入搜索](./geek_lessons/unit03/lesson24.md)
+  - [24 词项和基于全文的搜索](./geek_lessons/unit03/lesson24.md)
+
+
+## 狂神说
+
+- [笔记](./kuangshenshuo/README.md)
