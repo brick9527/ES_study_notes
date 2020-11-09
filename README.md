@@ -48,3 +48,7 @@
 - [term & terms查询](./qianfeng2020/term_and_terms_query.md)
 - [match all查询](./qianfeng2020/match_all_query.md)
 - [match & match布尔查询](./qianfeng2020/match_all_boolean_query.md)
+- [multiMatch查询](./qianfeng2020/multi_match_query.md)
+- [id & ids查询](./qianfeng2020/id_and_ids_query.md)
+- [prefix查询](./qianfeng2020/prefix_query.md)
+- [fuzzy查询](./qianfeng2020/fuzzy_query.md)
