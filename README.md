@@ -52,3 +52,7 @@
 - [id & ids查询](./qianfeng2020/id_and_ids_query.md)
 - [prefix查询](./qianfeng2020/prefix_query.md)
 - [fuzzy查询](./qianfeng2020/fuzzy_query.md)
+- [wildcard查询](./qianfeng2020/wildcard_query.md)
+- [range查询](./qianfeng2020/range_query.md)
+- [regexp查询](./qianfeng2020/regexp_query.md)
+- [scroll深分页](./qianfeng2020/scroll.md)
