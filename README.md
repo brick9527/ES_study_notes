@@ -56,3 +56,7 @@
 - [range查询](./qianfeng2020/range_query.md)
 - [regexp查询](./qianfeng2020/regexp_query.md)
 - [scroll深分页](./qianfeng2020/scroll.md)
+- [delete-by-query](./qianfeng2020/delete_by_query.md)
+- [复合查询](./qianfeng2020/bool_query.md)
+- [filter查询](./qianfeng2020/filter_query.md)
+- [高亮查询](./qianfeng2020/high_light_query.md)
