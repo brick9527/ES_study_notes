@@ -60,3 +60,4 @@
 - [复合查询](./qianfeng2020/bool_query.md)
 - [filter查询](./qianfeng2020/filter_query.md)
 - [高亮查询](./qianfeng2020/high_light_query.md)
+- [聚合查询](./qianfeng2020/aggregation_query.md)
