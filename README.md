@@ -61,3 +61,4 @@
 - [filter查询](./qianfeng2020/filter_query.md)
 - [高亮查询](./qianfeng2020/high_light_query.md)
 - [聚合查询](./qianfeng2020/aggregation_query.md)
+- [地图经纬度搜索](./qianfeng2020/geo_query.md)
